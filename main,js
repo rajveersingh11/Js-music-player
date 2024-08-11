@@ -22,22 +22,22 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3"
+    name: "Apocalypse",
+    artist: "Cigarettes After Sex",
+    image: "https://c.saavncdn.com/407/Apocalypse-English-2017-500x500.jpg",
+    path: "https://www.jiosaavn.com/song/apocalypse/Aj45fxkdU1U"
   },
   {
-    name: "Enthusiast",
-    artist: "Tours",
-    image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
+    name: "Daydream",
+    artist: "Lily Meola",
+    image: "https://c.saavncdn.com/490/Daydream-English-2022-20230324222047-500x500.jpg",
+    path: "https://www.jiosaavn.com/album/daydream/qf9xBv9dFgA_"
   },
   {
-    name: "Shipping Lanes",
-    artist: "Chad Crouch",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
+    name: "Faasle",
+    artist: "Aditya Rikhari",
+    image: "https://c.saavncdn.com/133/Faasle-Hindi-2021-20210801214117-500x500.jpg",
+    path: "https://www.jiosaavn.com/album/faasle/rb0OD2qcOzE_"
   },
 ];
 
